@@ -5,7 +5,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>酒会管理系统  </title>
+		<title>酒会管理系统555  </title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link href="${pageContext.request.contextPath}/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" />
 		<link rel="stylesheet" href="${pageContext.request.contextPath}/static/assets/css/font-awesome.min.css" />
